@@ -1,3 +1,6 @@
 venv
 .env
 flipkart.egg-info
+__pycache__/
+*.pyc
+*.pyo
