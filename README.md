@@ -4,7 +4,7 @@ An intelligent, RAG (Retrieval-Augmented Generation) based conversational chatbo
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 *   **RAG Architecture**: Combines vector retrieval with generative Large Language Models to answer queries accurately based on actual product reviews.
 *   **Conversational Memory**: Retains session history for contextual, multi-turn dialogue (e.g., answering follow-up questions).
@@ -25,7 +25,7 @@ An intelligent, RAG (Retrieval-Augmented Generation) based conversational chatbo
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 Flipkart-product-review-chatbot/
@@ -57,7 +57,7 @@ Flipkart-product-review-chatbot/
 
 ---
 
-## ⚙️ Local Setup and Installation
+##  Local Setup and Installation
 
 ### Prerequisites
 
@@ -110,7 +110,7 @@ HF_TOKEN=hf_your_actual_huggingface_token
 
 ---
 
-## 🏃 Running the Application
+##  Running the Application
 
 ### 1. Ingest Data (First-Time Run Only)
 
@@ -136,7 +136,7 @@ Once running, the application will be hosted on `http://localhost:5000`. Navigat
 
 ---
 
-## 🐳 Docker Containerization
+##  Docker Containerization
 
 To package and run the application locally inside a Docker container:
 
